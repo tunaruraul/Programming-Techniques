@@ -1,5 +1,5 @@
-#include "functii.h"
-#include "utils.h"
+#include "Functions.h"
+#include "Utils.h"
 
 #include <stdio.h>
 #include <stdlib.h>
